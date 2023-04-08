@@ -1,0 +1,15 @@
+body{
+    font-family: Arial, sans-serif;
+    background-image:url(sanek.jpg);
+}
+.events-section, .form-section {
+    padding: 15px;
+    background-color:darkgrey;
+    max-width: 23%;
+    border-radius:9%;
+}
+.form-section {
+    background-color:darkgrey;
+    max-width: 23%; 
+    border-radius: 9%;
+}

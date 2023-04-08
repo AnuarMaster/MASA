@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 0.9;
+    text-align: center;
+    background-color:rgb(202, 221, 238);
+}
+.logo{
+    height: 200%;
+    width: 250%;
+}
+.maintext{
+    font-family: monospace;
+    font-size: 170%;
+    width: 65%;
+    color:rgb(0, 0, 0);
+        margin: 0 auto;
+        text-align: center;
+}
+.box{
+    margin: left;
+      width: 200px;
+      height: 40px;
+      padding: 10px;
+}
+.form-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-right{
+    margin: 0 auto;
+    text-align: right;
+    width: 1250px;
+    height: 40px;
+    padding: 10px;
+}
+
+label, input, select {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    text-align: center;
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+main {
+    text-align: center;
+    padding: 2rem;
+}
+
+button {
+    text-align: center;
+    background: #333;
+    color: #fff;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+}
